@@ -1,1 +1,2 @@
 First git adding lesson.
+Testing commit message through code.
